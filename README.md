@@ -1,7 +1,5 @@
 # Estructura de Datos
 
-![logop5](https://p5-hall-of-fame.s3.amazonaws.com/p5logo.png)
-
 ### Objetivos
 
 En este módulo:
@@ -25,7 +23,3 @@ Lo aprendido en este módulo te servirá porque:
 - Sirve para escribir código más eficiente.
 - Es útil para los entornos que trabajan con *Big Data*.
 - Practicarás OOP.
-
-### Pledu
-
-Hacé [_click_ acá](https://pledu.plataforma5.la/bootcamp/01---estructura-de-datos/objetivos-f7abec94) para acceder al módulo correspondiente en Pledu.
